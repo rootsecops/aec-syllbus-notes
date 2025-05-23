@@ -1,3 +1,14 @@
-theme: jekyll-theme-cayman  # or the theme you're using
-include:
-  - _includes/head-custom.html
+title: AEC
+#email: your-email@example.com
+#description: 
+#baseurl: #the subpath of your site,
+#url: #the base hostname & protocol
+#twitter_username: jekyllrb
+#github_username: jekyll
+
+#Build settings
+markdown: kramdown
+theme: minima
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
