@@ -7,8 +7,8 @@ title: AEC
 #github_username: jekyll
 
 #Build settings
-#markdown: kramdown
-#theme: minima
+markdown: kramdown
+theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
