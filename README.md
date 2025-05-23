@@ -1,16 +1,21 @@
 ## Overview of the Syllabus - **Course**: AEC (English Communication),
-FYUGP Semester II, Gauhati University - **Credits**: 4 - **Purpose**:
+FYUGP Semester II, Gauhati University - 
+### **Credits**: 4 - 
+#### **Purpose**:
 Equip students with foundational English communication skills (written
 and spoken) for personal, social, and professional contexts, integrating
-digital and technological skills. - **Course Outcomes (COs)**: -
-**CO1**: Understand and apply the communication process to speak
-confidently in formal/informal settings. - **CO2**: Identify purposes of
-listening in academic and other contexts. - **CO3**: Use appropriate
+digital and technological skills. - 
+### **Course Outcomes (COs)**: -
+### **CO1**: Understand and apply the communication process to speak
+confidently in formal/informal settings. -
+
+### **CO2**: Identify purposes of
+listening in academic and other contexts. - 
+### **CO3**: Use appropriate
 intonation, stress, and rhythm to speak intelligibly and perform
-language functions. - **CO4**: Understand purpose, gist, and intent in
-spoken English; participate in conversations. - **CO5**: Use complex
-structures, idiomatic language, and nonverbal communication to
-articulate ideas clearly.
+language functions. - 
+### **CO4**: Understand purpose, gist, and intent in spoken English; participate in conversations. - 
+### **CO5**: Use complex structures, idiomatic language, and nonverbal communication to articulate ideas clearly.
 
 ------------------------------------------------------------------------
 
