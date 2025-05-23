@@ -1,3 +1,2 @@
-theme: jekyll-theme-cayman  # or your theme
 include:
   - _includes/head-custom.html
