@@ -1,3 +1,11 @@
+---
+title: AEC Syllabus Notes
+layout: default
+---
+
+# Welcome to AEC Syllabus Notes
+
+Browse semester-wise materials, subjects, and more here.
 ## Overview of the Syllabus - **Course**: AEC (English Communication),
 FYUGP Semester II, Gauhati University - 
 ### **Credits**: 4 - 
