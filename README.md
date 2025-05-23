@@ -1,4 +1,4 @@
-#Overview of the Syllabus - **Course**: AEC (English Communication),
+## Overview of the Syllabus - **Course**: AEC (English Communication),
 FYUGP Semester II, Gauhati University - **Credits**: 4 - **Purpose**:
 Equip students with foundational English communication skills (written
 and spoken) for personal, social, and professional contexts, integrating
